@@ -1,1 +1,27 @@
-scscsc
+[
+ 	{
+  	"Manufacturer": "Comtrend",
+	"Type" : "Wireless",
+	"Value": "200"
+	},
+
+        {
+        "Manufacturer": "SmartRG",
+        "Type" : "Wireless",
+        "Value": "45"
+        },
+  
+        {
+        "Manufacturer": "Intel",
+        "Type" : "Wireless",
+        "Value": "45"
+        },
+
+        {
+        "Manufacturer": "Cisco",
+        "Type" : "Wireless",
+        "Value": "72"
+        }
+
+
+]
